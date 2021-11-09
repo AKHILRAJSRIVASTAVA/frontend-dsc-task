@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frontend-dsc-task/static/css/main.94b01a61.chunk.css",
+    "main.js": "/frontend-dsc-task/static/js/main.60322412.chunk.js",
+    "main.js.map": "/frontend-dsc-task/static/js/main.60322412.chunk.js.map",
+    "runtime-main.js": "/frontend-dsc-task/static/js/runtime-main.82d024be.js",
+    "runtime-main.js.map": "/frontend-dsc-task/static/js/runtime-main.82d024be.js.map",
+    "static/js/2.566c9750.chunk.js": "/frontend-dsc-task/static/js/2.566c9750.chunk.js",
+    "static/js/2.566c9750.chunk.js.map": "/frontend-dsc-task/static/js/2.566c9750.chunk.js.map",
+    "static/js/3.c70f4dab.chunk.js": "/frontend-dsc-task/static/js/3.c70f4dab.chunk.js",
+    "static/js/3.c70f4dab.chunk.js.map": "/frontend-dsc-task/static/js/3.c70f4dab.chunk.js.map",
+    "index.html": "/frontend-dsc-task/index.html",
+    "static/css/main.94b01a61.chunk.css.map": "/frontend-dsc-task/static/css/main.94b01a61.chunk.css.map",
+    "static/js/2.566c9750.chunk.js.LICENSE.txt": "/frontend-dsc-task/static/js/2.566c9750.chunk.js.LICENSE.txt",
+    "static/media/delete.a4222ba3.svg": "/frontend-dsc-task/static/media/delete.a4222ba3.svg",
+    "static/media/plus.7824fa32.svg": "/frontend-dsc-task/static/media/plus.7824fa32.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82d024be.js",
+    "static/js/2.566c9750.chunk.js",
+    "static/css/main.94b01a61.chunk.css",
+    "static/js/main.60322412.chunk.js"
+  ]
+}
